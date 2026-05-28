@@ -42,7 +42,14 @@ Budget conscious drivers also show higher acceptance.
 
 **Overall**, the ideal bar coupon recipient is a regular bar goer, travelling socially, without family obligations (like kids etc.).
 
+### Next steps and recommendations
+
+- **Avoid delivering to drivers with kids** - as they tend to reject the coupon
+- **Target the frequent bar-goers** those who go more than 3 times a month accept the coupons at 76% vs infrequent goers at 37%.
+- **Skip widowed drivers and framing/forestry** - as they show lower acceptance across all conditions
+
 ![Bar Acceptance by Frequency](images/bar_acceptance_by_frequency.png)
+![Bar Acceptance by Frequency](images/bar_acceptance_vs_rejected.png)
 
 ---
 
