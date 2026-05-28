@@ -48,17 +48,26 @@ Budget conscious drivers also show higher acceptance.
 
 ## Independent Investigation - Coffee House Coupons
 
+### Introduction
+What are the characteristics distinguish drivers who accept Coffee House coupons and the factors that influences their decision
+
 Coffee house is the largest coupon group with 3,816 observations. The coffee house coupon acceptance rate is **49.63%** - two primary factors separate acceptors from non-acceptors: visit frequency and time of day.
 
-**Visit Frequency** - frequent coffee house visitors are more likely to accept a coffee house coupon. This conclusion is very similar to bar goers.
+- **Visit Frequency** - frequent coffee house visitors are more likely to accept a coffee house coupon. This conclusion is very similar to bar goers.
 
-**Time of Day** - acceptance peaks at 10AM, aligning with the morning coffee habit, and remains moderate at 2PM for afternoon coffee breaks. Evening hours (6PM, 10PM) show notably lower acceptance.
+- **Time of Day** - acceptance peaks at 10AM, aligning with the morning coffee habit, and remains moderate at 2PM for afternoon coffee breaks. Evening hours (6PM, 10PM) show notably lower acceptance.
 
 ### Hypothesis
 
 The overall acceptance rate for the coffee house coupon is 49.63% and primary factors are visit frequency and time of day.
 
-**Overall**, the ideal coffee house coupon recipient is a frequent coffee house visitor in the morning or early afternoon. Targeting infrequent visitors or evening drivers is less likely to yield better results.
+- **Overall**, the ideal coffee house coupon recipient is a frequent coffee house visitor in the morning or early afternoon. Targeting infrequent visitors or evening drivers is less likely to yield better results.
+
+### Next step and recommendations
+
+- Target the frequent visitors - as they'll likely to accept the coupons than non-visitors
+- Time the coupon delivery - send when the driver is most receptive like 10am or 2pm
 
 ![Coffee Acceptance by Frequency](images/coffee_acceptance_by_frequency.png)
+![Coffee Acceptance Vs  Rejection](images/coffee_acceptance_vs_rejection.png)
 
