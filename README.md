@@ -1,8 +1,20 @@
 # Data Introduction
 
-This data is from the UCI Machine Learning Repository and was collected via a survey on Amazon Mechanical Turk. The survey describes different driving scenarios, including the destination, current time, weather, and passenger, and then asks people whether they will accept the coupon if they are the driver.
+This data is from the UCI Machine Learning Repository and was collected via a survey on Amazon Mechanical Turk. The survey describes different driving scenarios, including 
+- the destination, 
+- current time, 
+- weather, and 
+- passenger, and then 
+asks people whether they will accept the coupon if they are the driver.
 
-There are five different types of coupons: less expensive restaurants (under $20), coffee houses, carry out & take away, bar, and more expensive restaurants ($20–$50). Answers that the driver will go 'right away' or 'later before the coupon expires' are labeled as Y = 1 and answers 'no, I do not want the coupon' are labeled as Y = 0.
+There are five different types of coupons: 
+1. less expensive restaurants (under $20), 
+2. coffee houses, 
+3. carry out & take away, 
+4. bar, and 
+5. more expensive restaurants ($20–$50).
+
+Goal is to explore the data and utilize the matplotlib and seaborn libraries to create visualization
 
 ---
 
