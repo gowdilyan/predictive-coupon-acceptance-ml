@@ -67,6 +67,8 @@ Budget conscious drivers also show higher acceptance.
 
 ## Independent Investigation - Coffee House Coupons
 
+Visualizations include interactive Plotly charts for the Coffee House analysis.
+
 ### Introduction
 What are the characteristics distinguish drivers who accept Coffee House coupons and the factors that influences their decision
 
